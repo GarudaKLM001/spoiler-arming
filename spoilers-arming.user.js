@@ -2,7 +2,7 @@
 // @name GeoFS Spoilers Arming
 // @description This extension (by Harry Xue) allows the user to arm the spoilers before landing.
 // @namespace GeoFS-Plugins
-// @match http://*/geofs.php*
+// @match https://geo-fs.com/geofs.php*
 // @run-at document-end
 // @version 0.4.1
 // @grant none
